@@ -16,6 +16,7 @@ header h2{
 }
 @media (max-width:780px){
     .grid{
+        
         grid-template-columns: 1fr;
     }
     .anuncios{
@@ -26,14 +27,14 @@ header h2{
 }
 .conteudo{
     margin: 20px;
-    padding: 20px;
+    padding: 0px;
 }
 p{
     margin: 20px auto ;
 }
 .ehi{
     text-align: center;
-    margin: 10px;
+    margin: 10px auto;
     display: block;
     background-color: rgb(241, 241, 241);
     border-radius: 20px;
