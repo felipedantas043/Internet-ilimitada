@@ -10,13 +10,16 @@
     display: grid;
     grid-template-columns: 1fr auto ;
     align-items: center;
+    align-content: space-between;
 }
 ul{
+    margin: 0 0 0 50px;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
 }
 ul li a{
+    display: flex;
     padding: 10px;
     text-decoration: none;
     border-radius: 10px;
