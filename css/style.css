@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Balsamiq Sans', cursive;
 }
 
 .cabecalho{
@@ -34,8 +34,12 @@ ul li a:hover{
 }
 
 h1{
+    font-family: 'Balsamiq Sans';
+    font-style: italic;
+    font-weight: 700;
     width: 80%;
     margin: 30px;
+    color: rgb(167, 105, 218);
 }
 #subtitulo{
     font-size: 10px;
