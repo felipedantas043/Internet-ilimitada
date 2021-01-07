@@ -13,7 +13,8 @@
     align-content: space-between;
 }
 ul{
-    margin: 0 0 0 50px;
+    
+    margin: 0 0 0 120px;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
@@ -50,7 +51,7 @@ h1{
     grid-template-columns: 1fr 6fr 200px;
     margin: 0 auto 0 30px;
 }
-@media (max-width:500px){
+@media (max-width:800px){
     
     .grid{
         margin: 0 auto 0 ;
