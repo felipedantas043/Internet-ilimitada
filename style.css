@@ -50,12 +50,12 @@ p{
 .anuncios{
     text-align: center;
     margin: 30px;
-    box-shadow: 1px 1px 3px rgba(0,0,0,.5);
     background-color: rgb(255, 255, 255);
     
 }
 .anuncio-item{
     margin: 30px  auto 30px ;
+    box-shadow: 1px 1px 3px rgba(0,0,0,.5); 
 }
 footer{
     margin: 50px;
