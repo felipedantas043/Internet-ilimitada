@@ -51,6 +51,7 @@ h1{
     margin: 0 auto 0 30px;
 }
 @media (max-width:780px){
+    
     .grid{
         margin: 0 auto 0 ;
         grid-template-columns: 1fr;
