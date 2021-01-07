@@ -65,14 +65,6 @@ h1{
         margin: 0px auto;
         padding: 0;
     }
-    .video {
-        width: 330px;
-        margin: 0 auto;
-    }
-    .video iframe{
-        width: 330px;
-        height: 250px;
-    }
 }
 main{
     box-shadow: 5px 5px 10px rgba(0,0,0,.3);
@@ -80,15 +72,6 @@ main{
 .conteudo{
     margin: 10px 0px 10px 0px;
     padding: 10px;
-}
-img{
-    display: block;
-    width: 250px;
-    margin: 0 auto;
-}
-.video{
-    width: 560px;
-    margin: 0 auto 50px auto;
 }
 p{
     margin: 20px auto ;
