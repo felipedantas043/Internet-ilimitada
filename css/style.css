@@ -65,6 +65,18 @@ h1{
         margin: 0px auto;
         padding: 0;
     }
+    .video{
+        width: 310px;
+        margin: 0 auto;
+    }
+    .video iframe{
+        width: 320px;
+        height: 250px;
+    }
+}
+.video{
+    text-align: center;
+    margin: 0px auto 100px;
 }
 main{
     box-shadow: 5px 5px 10px rgba(0,0,0,.3);
